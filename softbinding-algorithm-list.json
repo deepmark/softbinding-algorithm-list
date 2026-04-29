@@ -511,7 +511,7 @@
         }
     },
     {
-        "identifier": 34,
+        "identifier": 38,
         "alg": "com.evixar.efp.type3.1",
         "type": "fingerprint",
         "decodedMediaTypes": [
