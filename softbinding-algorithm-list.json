@@ -496,7 +496,7 @@
         ]
     },
     {
-        "identifier": 33,
+        "identifier": 37,
         "alg": "com.evixar.eaw.1",
         "type": "watermark",
         "decodedMediaTypes": [
